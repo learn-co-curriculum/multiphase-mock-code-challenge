@@ -63,7 +63,7 @@ provided script to do so.
    `code-challenge-practice/`, which should be `mock-code-challenge` for this
    lesson.
 1. Run `./bin/end`, which will create a new file, `<your-name>.bundle` in that
-   directory (for example, alicia.bundle).
+   directory (for example, `alicia.bundle`).
 1. Navigate back to this assignment in Canvas.
 1. Upload `<your-name>.bundle` to the assignment and submit.
 
