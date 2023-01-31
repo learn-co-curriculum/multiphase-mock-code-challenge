@@ -2,7 +2,6 @@
 
 ## Learning Goals
 
-- Ensure Python has been installed correctly.
 - Practice starting a code challenge.
 
 ## Introduction
@@ -19,7 +18,7 @@ that when the time for code challenges arrives, you can be confident your
 machine is properly set up to complete one and just focus on the challenge at
 hand.
 
-## Instructions for Working on and Submitting Code Challenge
+## Instructions for Working on and Submitting Code Challenges
 
 Instead of forking and cloning a GitHub repository like you do for all your
 labs, you will download a `.zip` file and use what is called a GitHub bundle. A
@@ -38,13 +37,13 @@ open the bundle:
 1. In your terminal, change directory (`cd`) into the unzipped challenge
    directory.
 1. Run ls; you should see a `bin/` directory and a
-   `code-challenge-practice.bundle` file).
-1. Run `./bin/start <your-name>` from the directory; this will create a new
+   `code-challenge-practice.bundle` file.
+1. Run `./bin/start.py <your-name>` from the directory; this will create a new
    directory called `code-challenge-practice/`.
 1. Change directory into the new `code-challenge-practice/` directory and open
    it in your code editor.
 
-The steps above gives you access to all the content of the bundle. In a normal
+The steps above give you access to all the content of the bundle. In a normal
 code challenge, you would then read through the `README.md` to find and follow
 the instructions for the challenge. As you work, you would use some familiar
 `git` commands to save your work. Let's practice that as well:
@@ -60,10 +59,9 @@ will bundle up your work to be uploaded onto Canvas. Again, you will use a
 provided script to do so.
 
 1. In the terminal, navigate back up to the **parent directory** of
-   `code-challenge-practice/`, which should be `mock` for this
-   lesson.
-1. Run `./bin/end`, which will create a new file, `<your-name>.bundle` in that
-   directory (for example, `alicia.bundle`).
+   `code-challenge-practice/`, which should be `mock` for this lesson.
+1. Run `./bin/end.py`, which will create a new file, `<your-name>.bundle` in
+   that directory (for example, `alicia.bundle`).
 1. Navigate back to this assignment in Canvas.
 1. Upload `<your-name>.bundle` to the assignment and submit.
 
