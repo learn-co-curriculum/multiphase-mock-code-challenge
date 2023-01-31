@@ -60,7 +60,7 @@ will bundle up your work to be uploaded onto Canvas. Again, you will use a
 provided script to do so.
 
 1. In the terminal, navigate back up to the **parent directory** of
-   `code-challenge-practice/`, which should be `mock-code-challenge` for this
+   `code-challenge-practice/`, which should be `mock` for this
    lesson.
 1. Run `./bin/end`, which will create a new file, `<your-name>.bundle` in that
    directory (for example, alicia.bundle).
