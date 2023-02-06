@@ -40,6 +40,9 @@ open the bundle:
    `code-challenge-practice.bundle` file.
 1. Run `./bin/start.py <your-name>` from the directory; this will create a new
    directory called `code-challenge-practice/`.
+   - If you receive permission errors during this step, run
+     `chmod +x ./bin/start.py` to give the file executable permissions, then try
+     again.
 1. Change directory into the new `code-challenge-practice/` directory and open
    it in your code editor.
 
@@ -62,6 +65,9 @@ provided script to do so.
    `code-challenge-practice/`, which should be `mock` for this lesson.
 1. Run `./bin/end.py`, which will create a new file, `<your-name>.bundle` in
    that directory (for example, `alicia.bundle`).
+   - If you receive permission errors during this step, run
+     `chmod +x ./bin/end.py` to give the file executable permissions, then try
+     again.
 1. Navigate back to this assignment in Canvas.
 1. Upload `<your-name>.bundle` to the assignment and submit.
 
